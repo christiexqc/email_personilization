@@ -3,7 +3,7 @@ Email Personalization
 
 Data:  email.csv
 
-Jupyter Notebook: personalization.jpymb
+Jupyter Notebook: personalization.jpynb
 
 When we talk about personalization and data science, the first thing that comes to the mind is Netflix-like personalization. I.e. given that you enjoyed these movies, we think you might like these other movies. Despite the fact that that’s the kind of personalization people tend to talk about the most, in the reality it is just a small subset of the types of personalization data scientists work on, and for sure not the most common.
 
